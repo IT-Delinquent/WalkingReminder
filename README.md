@@ -9,7 +9,7 @@ Here are some gifs of the program:
 ![alt text](https://github.com/IT-Delinquent/WalkingReminder/blob/master/WalkingReminder_Duck.gif)
 ![alt text](https://github.com/IT-Delinquent/WalkingReminder/blob/master/WalkingReminder_Stick.gif)
 
-[GIFS HERE]
+*Here are links to both the gifs used ( [Duck gif](https://giphy.com/gifs/happy-walking-wings-3o7btLRcDoBW1RmyJi) & [Stick Man gif](https://giphy.com/gifs/animated-loop-walking-XGnWMiVXL87Xa/media)*, please don't sue 😳
 
 Currently, changing the gif is quite difficult and requires a recompile and also the wpfAnimations .dll adding to the .exe. 
 You can do this by using [Costura.Fody](https://github.com/Fody/Costura "GitHub page for Costura Costura")
