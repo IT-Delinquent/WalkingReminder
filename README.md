@@ -1,4 +1,5 @@
 # Walking Reminder
+[![CodeFactor](https://www.codefactor.io/repository/github/it-delinquent/walking_reminder/badge)](https://www.codefactor.io/repository/github/it-delinquent/walking_reminder)
 ### A little window used to remind me to get up and move around...
 
 I have this setup as a scheduled task that runs every hour and reminds me to get up, stretch my legs, get a refill of 
