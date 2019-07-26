@@ -7,8 +7,8 @@ my drinks and rest my eyes 😆 😫
 
 Here are some gifs of the program:
 
-![alt text](https://github.com/IT-Delinquent/WalkingReminder/blob/master/WalkingReminder_Duck.gif)
-![alt text](https://github.com/IT-Delinquent/WalkingReminder/blob/master/WalkingReminder_Stick.gif)
+![alt text](https://github.com/IT-Delinquent/WalkingReminder/blob/master/Walking_Reminder_Duck.gif)
+![alt text](https://github.com/IT-Delinquent/WalkingReminder/blob/master/Walking_Reminder_Stick.gif)
 
 *Here are links to both the gifs used ( [Duck gif](https://giphy.com/gifs/happy-walking-wings-3o7btLRcDoBW1RmyJi) & [Stick Man gif](https://giphy.com/gifs/animated-loop-walking-XGnWMiVXL87Xa/media)* ), please don't sue 😳
 
