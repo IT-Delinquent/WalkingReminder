@@ -14,3 +14,5 @@ Here are some gifs of the program:
 
 Currently, changing the gif is quite difficult and requires a recompile and also the wpfAnimations .dll adding to the .exe. 
 You can do this by using [Costura.Fody](https://github.com/Fody/Costura "GitHub page for Costura Costura")
+
+[mharwood.uk](https://mharwood.uk)
